@@ -79,10 +79,8 @@ page_title: "TOTAL SUNSET"
 
 # links to show in the footer
 links:
-  - link_name: Twitter
-    link: https://twitter.com/_jzhao
   - link_name: Github
-    link: https://github.com/jackyzha0
+    link: https://github.com/iiiooovvv
 ```
 
 ### Code Block Titles
