@@ -1,0 +1,1 @@
+When a character is off-site, they are between the locations represented by [[sites]].  

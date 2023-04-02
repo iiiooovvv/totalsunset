@@ -1,0 +1,1 @@
+When the [[foreshadow]] resolves, the [[active player]] must first determin if the conditions are met for it to have any effect. If they are, the effect is establishes in play as per the rules on the [[active threat]]. 

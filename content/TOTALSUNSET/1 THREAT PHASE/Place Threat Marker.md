@@ -1,0 +1,1 @@
+The player selects an avaiable [[threat model]], places it on the [[site]] they wish to be the [[active site]] for their turn. 

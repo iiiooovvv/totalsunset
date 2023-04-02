@@ -1,0 +1,3 @@
+The active player selects one site to be the active site this turn. This can be the site they activated last turn. They may select the same threat they actiated last turn. This site and threat will be the focus of their turn. 
+- If there's already a threat on that site, they may choose this to be the [[active threat]].
+- If there's no threat on the site, they must add one and select that threat as the [[active threat]].

@@ -1,0 +1,1 @@
+an assassin is a special character that always joins your opponents crew agains you. You can only have one assassin following a member of your crew at a time, so if a second member of your crew is being persued by an assassin, the player with the lowest ruin select which continues.

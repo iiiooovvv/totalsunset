@@ -1,0 +1,1 @@
+Some folk can be [[recruit]]. Any characters that become folk from a betrayal event may be [[recruit]]. 

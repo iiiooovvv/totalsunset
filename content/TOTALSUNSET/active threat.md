@@ -1,0 +1,1 @@
+The active threat is a model on the active site that creates a danger on that site that will resolve at the end of the turn. There can be more than one threat model on the site, but the [[active player]] selects one threat moldel to be the active threat of all the [[threats]] on the [[active site]]. 

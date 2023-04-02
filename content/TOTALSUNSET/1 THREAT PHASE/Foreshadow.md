@@ -1,0 +1,1 @@
+The [[active threat]] holds the Foreshadow event rule text. A foreshadow event establishes a danger on the site that will resolve a the end of the turn. This provides the players with infomation about how the threat will harm their character before the turn really gets going, creating a tension in the turn that can help drive action.  

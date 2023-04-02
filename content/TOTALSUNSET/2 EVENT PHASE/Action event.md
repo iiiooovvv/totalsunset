@@ -1,0 +1,1 @@
+Actions are made avaiable by other rules in the game. A door may make the "Open" avaiable, or a corpse may make the "investigate" action avaiable. 

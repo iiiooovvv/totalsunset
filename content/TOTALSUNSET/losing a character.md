@@ -1,0 +1,3 @@
+When you mark your last Ruin—meaning all 6 Ruin boxes are marked—you lose yourself to the wilds that have been growing inside you. You choose whether you become a monster in service to the forces of nature (and the whims of the GM), or whether you simply die. This is an important moment: Everyone focuses on your last actions before you run screaming into the shadows, turn violently against the other characters, or take your final breath.
+
+The GM may allow you to take on a co-GM role, helping describe the terrors of the world—especially any terrors that directly connect to your now-lost character.
