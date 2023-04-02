@@ -4,4 +4,7 @@ enableToc: false
 ---
 
 # A GAME
+
 Test text
+
+More test text
